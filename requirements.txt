@@ -1,0 +1,4 @@
+PdfReader
+nltk
+transformers
+tqdm
